@@ -3,7 +3,7 @@
 --------------
 Team3 - Zone 3 - E403
 
-Hospital Clinical Support Assistant (Scenario 2)
+# Hospital Clinical Support Assistant (Scenario 2)
 
 Xây dựng trợ lý AI tích hợp trong bệnh viện nhằm giảm tải áp lực hành chính và hỗ trợ ra quyết định lâm sàng nhanh chóng.
 ---
