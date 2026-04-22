@@ -17,11 +17,6 @@ Xây dựng trợ lý AI tích hợp trong bệnh viện nhằm giảm tải áp
 | **Cao Diệu Ly** | 2A202600356 |
 | **Lê Minh Tuấn** | 2A202600379 |
 
----
-
-## WorkSheet
-![URL](https://docs.google.com/document/d/1-xfI-71glbMJWmBfYXXiEHBXgXrrLF8TNTU-BnFfl8M/edit?tab=t.jzcza6k6jnzw)
-
 ### Architecture
 ![Architecture](Architecture.webp)
 
