@@ -2,13 +2,13 @@
 
 --------------
 Team3 - Zone 3 - E403
+
 Hospital Clinical Support Assistant (Scenario 2)
+
 Xây dựng trợ lý AI tích hợp trong bệnh viện nhằm giảm tải áp lực hành chính và hỗ trợ ra quyết định lâm sàng nhanh chóng.
 ---
 
 ## 👥 Danh Sách Thành Viên (Team Members)
-
-Dưới đây là thông tin các thành viên tham gia thực hiện dự án:
 
 | Họ và Tên | Mã Số Sinh Viên |
 | :--- | :---: |
