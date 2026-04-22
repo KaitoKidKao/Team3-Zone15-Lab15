@@ -20,7 +20,3 @@ Xây dựng trợ lý AI tích hợp trong bệnh viện nhằm giảm tải áp
 ### Architecture
 ![Architecture](Architecture.webp)
 
-
-1. **Clone dự án:**
-   ```bash
-   git clone [https://github.com/username/project-name.git](https://github.com/username/project-name.git)
